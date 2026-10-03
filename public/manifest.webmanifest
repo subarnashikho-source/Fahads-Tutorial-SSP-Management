@@ -1,0 +1,22 @@
+{
+  "name": "Fahads Tutorial – SSP Management System",
+  "short_name": "FT-SSP",
+  "description": "Production-ready cloud-based SSP / Student Support Team Management SaaS application for Fahads Tutorial.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/assets/official-logo.png",
+      "sizes": "900x900",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Fahads Tutorial – SSP Management System",
+  "description": "Production-ready cloud-based SSP / Student Support Team Management SaaS application for Fahads Tutorial. Managed by Ananya Rahman (Head of SSP). Features employee management, attendance, rosters, leave tracking, meals, meal collections, bazar/expenses, operations, incidents, calendar, reports with watermarks, audit logs, and monthly closing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
